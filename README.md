@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 </td>
 <td><a href="https://www.linkedin.com/in/vitorlucasrez/" target="_blank"><img src="https://github.com/vitorlucasrez/vitorlucasrez/blob/main/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/1208427665892059" target="_blank"><img src="https://github.com/vitorlucasrez/vitorlucasrez/blob/main/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/vitorlucasrez/vitorlucasrez/blob/main/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
 <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/vitorlucasrez/vitorlucasrez/blob/main/discord2.png?raw=true" width="50px" height="50px"/></a>
