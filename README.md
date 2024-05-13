@@ -1,3 +1,6 @@
+
+![github-header-image](https://github.com/vitorlucasrez/vitorlucasrez/assets/161331785/536f948c-051f-40f4-97ac-75f7b8db9875)
+
 ### Hi there 👋
 
 <!--
