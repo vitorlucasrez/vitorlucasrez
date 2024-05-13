@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github-header-image](https://github.com/vitorlucasrez/vitorlucasrez/assets/161331785/536f948c-051f-40f4-97ac-75f7b8db9875)
-
 # Perfil do Estudante de Engenharia de Software - PUC Minas
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
